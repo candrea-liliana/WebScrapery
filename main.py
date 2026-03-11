@@ -5,7 +5,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 
-search = input("Enter search term: ")
+
+search = input("Search after: ")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.get(f"https://www.bing.com/search?q={search}")
