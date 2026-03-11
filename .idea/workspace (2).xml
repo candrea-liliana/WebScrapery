@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cd19e7b-7e06-4847-8126-3258c5a05419" name="Changes" comment="Fix config issue - virtual env path">
+      <change afterPath="$PROJECT_DIR$/../WebScrapery/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScrapery/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScrapery/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScrapery/pizza_results.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../WebScrapery" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;candrea-liliana&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/candrea-liliana/WebScapery.git&quot;,
+    &quot;accountId&quot;: &quot;223a6bc3-9f63-45e2-bb08-9d81dfad5722&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3Al1Y7uwRbo0ZIvRDA14f42G0VX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd19e7b-7e06-4847-8126-3258c5a05419" name="Changes" comment="" />
+      <created>1773152387519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773152387519</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First push - WebScraper&#10;Installing BeautifulSoup and Selenium packages. &#10;Set a web driver manager for https://www.bing.com/.&#10;Read a word from keyboard to search for in driver.&#10;Get the results from the first page by tag and id. Extract the TITLE and the LINK of each element from resulted search (DOM). &#10;Print the result in the console and save them in a &quot;_results.txt&quot; file.">
+      <option name="closed" value="true" />
+      <created>1773161733762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773161733762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First push - WebScraper&#10;Installing BeautifulSoup and Selenium packages. &#10;Set a web driver manager for https://www.bing.com/.&#10;Read a word from keyboard to search for in driver.&#10;Get the results from the first page by tag and id. Extract the TITLE and the LINK of each element from resulted search (DOM). &#10;Print the result in the console and save them in a &quot;_results.txt&quot; file.">
+      <option name="closed" value="true" />
+      <created>1773161852634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773161852634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First push - WebScraper&#10;Installing BeautifulSoup and Selenium packages. &#10;Set a web driver manager for https://www.bing.com/.&#10;Read a word from keyboard to search for in driver.&#10;Get the results from the first page by tag and id. Extract the TITLE and the LINK of each element from resulted search (DOM). &#10;Print the result in the console and save them in a &quot;_results.txt&quot; file.">
+      <option name="closed" value="true" />
+      <created>1773161866479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773161866479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix config issue - virtual env path">
+      <option name="closed" value="true" />
+      <created>1773222558027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773222558027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First push - WebScraper&#10;Installing BeautifulSoup and Selenium packages. &#10;Set a web driver manager for https://www.bing.com/.&#10;Read a word from keyboard to search for in driver.&#10;Get the results from the first page by tag and id. Extract the TITLE and the LINK of each element from resulted search (DOM). &#10;Print the result in the console and save them in a &quot;_results.txt&quot; file." />
+    <MESSAGE value="Fix config issue - virtual env path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix config issue - virtual env path" />
+  </component>
+</project>
